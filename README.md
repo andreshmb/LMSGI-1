@@ -88,25 +88,27 @@ ___
 
 8. **C) Uso de Rawgit para ver ficheros html de GitHub**
 	+ Abrir el fichero _.html_ en el repositorio pulsando en el:  
-	
-	***Apertura fichero .html***	
+	___
+	***Apertura fichero .html***
+	___
 	![Apertura fichero .html](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/fichero-html-apertura.PNG)
-	
+	___
 	+ Copiar la _URL_ del fichero _.html_:  
-	
+	___
 	***Copia URL***
-	
+	___
 	![Copia URL](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/copia-url-fichero-html.PNG)
-	
+	___
 	+ Acceder a la web [Rawgit](http://raw.githack.com/), pegar la URL copiada y copiar el enlace generado en la pestaña _"Use this URL for development"_:  
-	
+	___
 	***Transformación de la URL***
+	___
         ![Transformación de la URL](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/uso-rawgit-1.PNG)
-	
+	___
 	+ Visionado del enlace en una nueva pestaña:  
-	
+	___
 	***visionado nueva _url***
-	
+	___
 	![visionado nueva _url_](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/visionado-fichero-html-navegador.PNG)	
 ___
 	
@@ -123,19 +125,21 @@ ___
 ___
 
 10. Una vez completado el ejercicio enviamos el enlace de nuestro repositorio a la plataforma de educación a distancia <http://fpadistancia.caib.es/mod/assign/view.php?id=62388>, desde la pagina de usuario accedemos a la página del ejercicio para hacer la entrega de la _URL_ del repositorio:  
+___
 ***Agregar entrega***
 ___
 ![Agregar entrega](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_E/agregar-entrega.PNG)  
-
+___
 ***Pegar desde Word e insertar URL***
 ___
 ![Pegar desde Word e insertar URL](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_E/agregar-entrega-1.PNG)  
-
+___
 ***Guardar cambios***
 ___
 ![Guardar cambios](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_E/agregar-entrega-2.PNG)
  ___
 > _De momento se da por finalizado el documento._
+>>_Aunque siempre se pueden hacer unas modificaciones y mejoras_
 ___
 
 [link1]:https://www.w3schools.com/xml/default.asp
