@@ -16,14 +16,14 @@ Tarea Unidad 01 Modulo Lenguaje de Marca y Sistema de Gestión de la Informació
 _____
 6. **A) Crear documentos**
   
-  He creado un documento con Wordpad, el cual he guardado en .rtf y luego lo he abierto con Notepad++ y lo he guardado para abrirlo luego con Writer en donde he observado como se ven las codificaciones que hace el programa Wordpad.
+  He creado un documento con Wordpad, el cual he guardado en .rtf y luego lo he abierto con Notepad++ y lo he guardado para abrirlo luego con Writer en donde he observado como se ven las codificaciones que hace el programa Wordpad.  
   Documento de _codigo .rtf_.
   ___
   
   ![Writer](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_A/archivo-codigo-rtf-4.PNG)
   ___
   
-  Desde este [link1]  he copiado un ejemplo de archivo _.xml_ el cual he modificado como puede observarse en la captura del explorador de archivos el cual me puede mostrar la estructura del archivo _.xml_.
+  Desde este [link1]  he copiado un ejemplo de archivo _.xml_ el cual he modificado como puede observarse en la captura del explorador de archivos el cual me puede mostrar la estructura del archivo _.xml_.  
   Documento de codigo _.xml_.
  ___
   
@@ -39,7 +39,7 @@ _____
  
 7. **B) Apertura, registro y uso de repositorio en GitHub** 
 
-En primer lugar accedemos a la [web del proyecto] para registrarnos indicando un usuario y el correo electronico asociado a ese usuario que vamos a crear y una  contraseña de acceso como se ve en la imagen siguiente:
+En primer lugar accedemos a la [web del proyecto] para registrarnos indicando un usuario y el correo electronico asociado a ese usuario que vamos a crear y una  contraseña de acceso como se ve en la imagen siguiente:  
 Registro en GitHub
 ___
 
