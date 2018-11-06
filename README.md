@@ -23,20 +23,24 @@ _____
   ![Writer](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_A/archivo-codigo-rtf-4.PNG)
   ___
   
-  desde este [link1]  he copiado un ejemplo de archivo _.xml_ el cual he modificado como puede observarse en la captura del explorador de archivos el cual me puede mostrar la estructura del archivo _.xml_.
+  Desde este [link1]  he copiado un ejemplo de archivo _.xml_ el cual he modificado como puede observarse en la captura del explorador de archivos el cual me puede mostrar la estructura del archivo _.xml_.
   Documento de codigo _.xml_.
  ___
   
  ![Explorador de archivos de Windows](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_A/archivo-codigo-xml-1.PNG)
  ___
  
- Desde este otro [link2] he creado otro archivo con codigo *.html* y extensión *.html*  el cual lo he modificado un poco
+ Desde este otro [link2] he creado otro archivo con codigo *.html* y extensión *.html*  el cual lo he modificado un poco.
+ Documento de código _.html_.
  ___
  
  ![vista archivo html](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_A/captura-html.PNG)
  ___
+ 
 7. **B) Apertura, registro y uso de repositorio en GitHub** 
+
 En primer lugar accedemos a la [web del proyecto] para registrarnos indicando un usuario y el correo electronico asociado a ese usuario que vamos a crear y una  contraseña de acceso como se ve en la imagen siguiente:
+Registro en GitHub
 ___
 
 ![Registro en GitHub](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_B/abrir-cuenta-github.PNG)
