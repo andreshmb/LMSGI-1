@@ -14,7 +14,7 @@ Tarea Unidad 01 Modulo Lenguaje de Marca y Sistema de Gestión de la Informació
 4. D) Editar este documento Readme.md explicando la realización de las partes de la tarea
 5. E) Enviar el enlace de este repositorio a la plataforma <http://fpadistancia.caib.es>
 _____
-6. **A) Crear documentos**
+1. **A) Crear documentos**
   
   He creado un documento con Wordpad, el cual he guardado en .rtf y luego lo he abierto con Notepad++ y lo he guardado para abrirlo luego con Writer en donde he observado como se ven las codificaciones que hace el programa Wordpad.  
   
@@ -40,7 +40,7 @@ _____
  ![vista archivo html](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_A/captura-html.PNG)
  ___
  
-7. **B) Apertura, registro y uso de repositorio en GitHub** 
+2. **B) Apertura, registro y uso de repositorio en GitHub** 
 
 En primer lugar accedemos a la [web del proyecto] para registrarnos indicando un usuario y el correo electronico asociado a ese usuario que vamos a crear y una  contraseña de acceso como se ve en la imagen siguiente:  
 
@@ -86,33 +86,29 @@ ___
 ![Uso GitHub Web](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_B/subida-archivos-1.PNG)
 ___
 
-8. **C) Uso de Rawgit para ver ficheros html de GitHub**
+3. **C) Uso de Rawgit para ver ficheros html de GitHub**  
+
 	+ Abrir el fichero _.html_ en el repositorio pulsando en el:  
-	___
 	***Apertura fichero .html***
 	___
 	![Apertura fichero .html](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/fichero-html-apertura.PNG)
 	___
 	+ Copiar la _URL_ del fichero _.html_:  
-	___
 	***Copia URL***
 	___
 	![Copia URL](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/copia-url-fichero-html.PNG)
 	___
 	+ Acceder a la web [Rawgit](http://raw.githack.com/), pegar la URL copiada y copiar el enlace generado en la pestaña _"Use this URL for development"_:  
-	___
-	***Transformación de la URL***
-	___
+	***Transformación de la URL*** 
         ![Transformación de la URL](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/uso-rawgit-1.PNG)
 	___
 	+ Visionado del enlace en una nueva pestaña:  
-	___
-	***visionado nueva _url***
+	***visionado nueva _url***  
 	___
 	![visionado nueva _url_](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/visionado-fichero-html-navegador.PNG)	
 ___
 	
-9. **D) Edición fichero README del repositorio LMSGI-01**
+4. **D) Edición fichero README del repositorio LMSGI-01**
 
 	En este apartado nos pide que demostremos el manejo basico de edicion con el editor MarkDown, en donde hayamos creado:
 	
@@ -124,7 +120,7 @@ ___
 >Lo cual hemos realizado con el editor online [StackEdit](https://stackedit.io/).
 ___
 
-10. Una vez completado el ejercicio enviamos el enlace de nuestro repositorio a la plataforma de educación a distancia <http://fpadistancia.caib.es/mod/assign/view.php?id=62388>, desde la pagina de usuario accedemos a la página del ejercicio para hacer la entrega de la _URL_ del repositorio:  
+5. Una vez completado el ejercicio enviamos el enlace de nuestro repositorio a la plataforma de educación a distancia <http://fpadistancia.caib.es/mod/assign/view.php?id=62388>, desde la pagina de usuario accedemos a la página del ejercicio para hacer la entrega de la _URL_ del repositorio:  
 ___
 ***Agregar entrega***
 ___
