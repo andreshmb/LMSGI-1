@@ -117,7 +117,8 @@ ___
 + Enlaces
 + Uso de _Cursiva_ y **Negrita**
 
->Lo cual hemos realizado con el editor online [StackEdit](https://stackedit.io/).
+>El cual hemos realizado con el editor online [StackEdit](https://stackedit.io/).
+>Y con el propio editor de GitHub lo hemos terminado de perfilar.
 ___
 
 5. Una vez completado el ejercicio enviamos el enlace de nuestro repositorio a la plataforma de educación a distancia <http://fpadistancia.caib.es/mod/assign/view.php?id=62388>, desde la pagina de usuario accedemos a la página del ejercicio para hacer la entrega de la _URL_ del repositorio:  
