@@ -89,23 +89,23 @@ ___
 3. **C) Uso de Rawgit para ver ficheros html de GitHub**  
 
 	+ Abrir el fichero _.html_ en el repositorio pulsando en el:  
-	***Apertura fichero .html***
+	***Apertura fichero README.md***
 	___
-	![Apertura fichero .html](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/fichero-html-apertura.PNG)
+	![Apertura fichero README.md](https://github.com/andreshmb/LMSGI-1/blob/master/Ejercicio_C/archivo-readme-md.PNG)
 	___
 	+ Copiar la _URL_ del fichero _.html_:  
 	***Copia URL***
 	___
-	![Copia URL](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/copia-url-fichero-html.PNG)
+	![Copia URLfichero README.md](https://github.com/andreshmb/LMSGI-1/blob/master/Ejercicio_C/archivo-readme-md-copiado-url-1.png)
 	___
 	+ Acceder a la web [Rawgit](http://raw.githack.com/), pegar la URL copiada y copiar el enlace generado en la pestaña _"Use this URL for development"_:  
 	***Transformación de la URL*** 
-        ![Transformación de la URL](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/uso-rawgit-1.PNG)
+        ![Transformación de la URL](https://github.com/andreshmb/LMSGI-1/blob/master/Ejercicio_C/uso-rawgithack-url-readme-md.PNG)
 	___
 	+ Visionado del enlace en una nueva pestaña:  
 	***visionado nueva _url***  
 	___
-	![visionado nueva _url_](https://github.com/andreshmb/Lmsgi/blob/master/Ejercicio_C/visionado-fichero-html-navegador.PNG)	
+	![visionado nueva _url_](https://github.com/andreshmb/LMSGI-1/blob/master/Ejercicio_C/visionado-readme-md.PNG)	
 ___
 	
 4. **D) Edición fichero README del repositorio LMSGI-01**
@@ -137,6 +137,7 @@ ___
  ___
 > _De momento se da por finalizado el documento._
 >>_Aunque siempre se pueden hacer unas modificaciones y mejoras_
+>>_Se ha modificado la parte del Ejercicio 3.C en donde he cambiado las URL de las imagenes, ya que lo que se visionaba era un archivo .html y lo que realmente pedía el ejercicio era el visionado del archivo README.md una vez se transformaba la .Url desde raw.githack.com_
 ___
 
 [link1]:https://www.w3schools.com/xml/default.asp
