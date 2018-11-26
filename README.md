@@ -118,7 +118,7 @@ ___
 + Uso de _Cursiva_ y **Negrita**
 
 >El cual hemos realizado con el editor online [StackEdit](https://stackedit.io/).
->Y con el propio editor de GitHub lo hemos terminado de perfilar.
+>Y con el propio editor de GitHub hemos terminado de hacer unos ultimos cambios o modificaciones.
 ___
 
 5. Una vez completado el ejercicio enviamos el enlace de nuestro repositorio a la plataforma de educación a distancia <http://fpadistancia.caib.es/mod/assign/view.php?id=62388>, desde la pagina de usuario accedemos a la página del ejercicio para hacer la entrega de la _URL_ del repositorio:  
@@ -137,7 +137,7 @@ ___
  ___
 > _De momento se da por finalizado el documento._
 >>_Aunque siempre se pueden hacer unas modificaciones y mejoras_
->>_Se ha modificado la parte del Ejercicio 3.C en donde he cambiado las URL de las imagenes, ya que lo que se visionaba era un archivo .html y lo que realmente pedía el ejercicio era el visionado del archivo README.md una vez se transformaba la .Url desde raw.githack.com_
+>_Se ha modificado la parte del Ejercicio 3.C en donde he cambiado las URL de las imagenes, ya que lo que se visionaba era un archivo .html y lo que realmente pedía el ejercicio era el visionado del archivo README.md una vez se transformaba la .Url desde raw.githack.com_
 ___
 
 [link1]:https://www.w3schools.com/xml/default.asp
